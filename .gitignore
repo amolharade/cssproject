@@ -1,0 +1,2 @@
+.vscode/
+node_modules/git rev-parse --show-toplevel
